@@ -1,0 +1,22 @@
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\bin\Release\Server.exe
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\bin\Release\Server.pdb
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\bin\Release\Unit4.dll
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.FullWatch.resources
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.Ruler.resources
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.Properties.Resources.resources
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.exe
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.pdb
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Release\Server.FullWatch.resources
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Release\Server.Ruler.resources
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Release\Server.Properties.Resources.resources
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Release\Server.exe
+C:\Users\בוריק\Desktop\good Server\Server\bin\Release\Server.exe
+C:\Users\בוריק\Desktop\good Server\Server\bin\Release\Server.pdb
+C:\Users\בוריק\Desktop\good Server\Server\bin\Release\Unit4.dll
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Release\Server.pdb

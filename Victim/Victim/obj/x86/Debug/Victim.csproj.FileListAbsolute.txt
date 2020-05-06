@@ -1,0 +1,78 @@
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Debug\Victim.VictimForm.resources
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Debug\Victim.Properties.Resources.resources
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\bin\Debug\Victim.exe
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\bin\Debug\Victim.pdb
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Debug\Victim.exe
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Debug\Victim.pdb
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\obj\x86\Debug\Victim.exe
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\obj\x86\Debug\Victim.pdb
+H:\victim1\Victim\Victim\Victim\bin\Debug\Victim.exe
+H:\victim1\Victim\Victim\Victim\bin\Debug\Victim.pdb
+H:\victim1\Victim\Victim\Victim\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.VictimForm.resources
+H:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.Properties.Resources.resources
+H:\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.exe
+H:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.pdb
+E:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.exe
+E:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.pdb
+E:\victim1\Victim\Victim\Victim\bin\Debug\Victim.exe
+E:\victim1\Victim\Victim\Victim\bin\Debug\Victim.pdb
+E:\victim1\Victim\Victim\Victim\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.VictimForm.resources
+E:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.Properties.Resources.resources
+E:\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.exe
+I:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.pdb
+F:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.exe
+F:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.pdb
+F:\victim1\Victim\Victim\Victim\bin\Debug\Victim.exe
+F:\victim1\Victim\Victim\Victim\bin\Debug\Victim.pdb
+F:\victim1\Victim\Victim\Victim\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.VictimForm.resources
+F:\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.Properties.Resources.resources
+F:\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.exe
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.pdb
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\bin\Debug\Victim.exe
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\bin\Debug\Victim.pdb
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.VictimForm.resources
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.Properties.Resources.resources
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\student.HUMANISTICA\שולחן העבודה\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.exe
+C:\Documents and Settings\student.HUMANISTICA\שולחן העבודה\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.pdb
+C:\Documents and Settings\student.HUMANISTICA\שולחן העבודה\victim1\Victim\Victim\Victim\bin\Debug\Victim.exe
+C:\Documents and Settings\student.HUMANISTICA\שולחן העבודה\victim1\Victim\Victim\Victim\bin\Debug\Victim.pdb
+C:\Documents and Settings\student.HUMANISTICA\שולחן העבודה\victim1\Victim\Victim\Victim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student.HUMANISTICA\שולחן העבודה\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.VictimForm.resources
+C:\Documents and Settings\student.HUMANISTICA\שולחן העבודה\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.Properties.Resources.resources
+C:\Documents and Settings\student.HUMANISTICA\שולחן העבודה\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\student.HUMANISTICA\שולחן העבודה\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sharona\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.exe
+C:\Users\Sharona\Desktop\victim1\Victim\Victim\Victim\bin\Debug\Victim.exe
+C:\Users\Sharona\Desktop\victim1\Victim\Victim\Victim\bin\Debug\Victim.pdb
+C:\Users\Sharona\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sharona\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.VictimForm.resources
+C:\Users\Sharona\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.Properties.Resources.resources
+C:\Users\Sharona\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sharona\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sharona\Desktop\victim1\Victim\Victim\Victim\obj\x86\Debug\Victim.pdb
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\obj\x86\Debug\Victim.exe
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\obj\x86\Debug\Victim.pdb
+E:\victim1 new\Victim\Victim\Victim\bin\Debug\Victim.exe
+E:\victim1 new\Victim\Victim\Victim\bin\Debug\Victim.pdb
+E:\victim1 new\Victim\Victim\Victim\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\victim1 new\Victim\Victim\Victim\obj\x86\Debug\Victim.VictimForm.resources
+E:\victim1 new\Victim\Victim\Victim\obj\x86\Debug\Victim.Properties.Resources.resources
+E:\victim1 new\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\victim1 new\Victim\Victim\Victim\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\victim1 new\Victim\Victim\Victim\obj\x86\Debug\Victim.exe
+E:\victim1 new\Victim\Victim\Victim\obj\x86\Debug\Victim.pdb

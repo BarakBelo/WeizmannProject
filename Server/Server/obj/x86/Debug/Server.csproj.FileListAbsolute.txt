@@ -1,0 +1,48 @@
+C:\Users\בוריק\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\Server.exe
+C:\Users\בוריק\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\Server.pdb
+C:\Users\בוריק\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\בוריק\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\בוריק\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\בוריק\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\בוריק\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Server.exe
+C:\Users\בוריק\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Server.pdb
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\bin\Debug\Server.exe
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.Ruler.resources
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.FullWatch.resources
+C:\Users\user\Desktop\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\user\Desktop\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\user\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\user\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\user\Desktop\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Server\Server\obj\x86\Debug\Server.FullWatch.resources
+C:\Users\user\Desktop\Server\Server\obj\x86\Debug\Server.Ruler.resources
+C:\Users\user\Desktop\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\user\Desktop\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Server\Server\obj\x86\Debug\Server.exe
+I:\Server\Server\obj\x86\Debug\Server.pdb
+I:\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Server\Server\obj\x86\Debug\Server.FullWatch.resources
+I:\Server\Server\obj\x86\Debug\Server.Ruler.resources
+I:\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+I:\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Server\Server\bin\Debug\Server.exe
+I:\Server\Server\bin\Debug\Server.pdb
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Debug\Server.exe
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\בוריק\Desktop\good Server\Server\bin\Debug\Server.exe
+C:\Users\בוריק\Desktop\good Server\Server\bin\Debug\Server.pdb
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Debug\Server.FullWatch.resources
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Debug\Server.Ruler.resources
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\בוריק\Desktop\good Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog

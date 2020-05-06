@@ -1,0 +1,53 @@
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Release\Victim.VictimForm.resources
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Release\Victim.Properties.Resources.resources
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\bin\Release\Victim.exe
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\bin\Release\Victim.pdb
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Release\Victim.exe
+C:\Users\בוריק\Documents\Visual Studio 2010\Projects\Victim\Victim\obj\x86\Release\Victim.pdb
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\obj\x86\Release\Victim.exe
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\obj\x86\Release\Victim.pdb
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\bin\Release\Victim.exe
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\bin\Release\Victim.pdb
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\obj\x86\Release\Victim.VictimForm.resources
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\obj\x86\Release\Victim.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Desktop\Victim\Victim\Victim\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\בוריק\Desktop\Victim\Victim\Victim\obj\x86\Release\Victim.exe
+C:\Users\בוריק\Desktop\Victim\Victim\Victim\obj\x86\Release\Victim.pdb
+H:\victim1\Victim\Victim\Victim\obj\x86\Release\Victim.exe
+H:\victim1\Victim\Victim\Victim\obj\x86\Release\Victim.pdb
+F:\victim1\Victim\Victim\Victim\bin\Release\Victim.exe
+F:\victim1\Victim\Victim\Victim\bin\Release\Victim.pdb
+F:\victim1\Victim\Victim\Victim\obj\x86\Release\ResolveAssemblyReference.cache
+F:\victim1\Victim\Victim\Victim\obj\x86\Release\Victim.VictimForm.resources
+F:\victim1\Victim\Victim\Victim\obj\x86\Release\Victim.Properties.Resources.resources
+F:\victim1\Victim\Victim\Victim\obj\x86\Release\GenerateResource.read.1.tlog
+F:\victim1\Victim\Victim\Victim\obj\x86\Release\GenerateResource.write.1.tlog
+F:\victim1\Victim\Victim\Victim\obj\x86\Release\Victim.exe
+F:\victim1\Victim\Victim\Victim\obj\x86\Release\Victim.pdb
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\bin\Release\Victim.exe
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\bin\Release\Victim.pdb
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Release\Victim.VictimForm.resources
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Release\Victim.Properties.Resources.resources
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Release\Victim.exe
+C:\Users\בוריק\Desktop\victim1\Victim\Victim\Victim\obj\x86\Release\Victim.pdb
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\bin\Release\Victim.exe
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\bin\Release\Victim.pdb
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\obj\x86\Release\Victim.VictimForm.resources
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\obj\x86\Release\Victim.Properties.Resources.resources
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\obj\x86\Release\Victim.exe
+C:\Users\בוריק\Desktop\victim1 new\Victim\Victim\Victim\obj\x86\Release\Victim.pdb
+H:\victim1 new\Victim\Victim\Victim\obj\x86\Release\Victim.exe
+H:\victim1 new\Victim\Victim\Victim\obj\x86\Release\Victim.pdb
+E:\victim1 new\Victim\Victim\Victim\obj\x86\Release\Victim.exe
+E:\victim1 new\Victim\Victim\Victim\obj\x86\Release\Victim.pdb
